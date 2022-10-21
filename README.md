@@ -1,1 +1,1 @@
-# rabbitmq-for-javascript.plainenglish.io
+# rabbitmq for javascript.plainenglish.io
