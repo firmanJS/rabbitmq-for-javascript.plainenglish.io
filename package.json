@@ -1,0 +1,12 @@
+{
+  "name": "rabbitmq-demo",
+  "version": "1.0.0",
+  "description": "rabbitmq demo for article medium javascript plainenglish",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "@firmanjs",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.0.3"
+  }
+}
